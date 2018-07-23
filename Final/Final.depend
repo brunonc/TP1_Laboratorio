@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1532350118 source:c:\test\final\recursos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1532358247 source:c:\test\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"recursos.h"
+	"ArrayList.h"
+	"entrega.h"
+
+1532349848 c:\test\final\recursos.h
+
+1532347814 c:\test\final\arraylist.h
+
+1532357985 source:c:\test\final\entrega.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"entrega.h"
+
+1532358174 c:\test\final\entrega.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532352012 source:c:\test\final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entrega.h"
+	"ArrayList.h"
+
+1532357955 source:c:\test\final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
