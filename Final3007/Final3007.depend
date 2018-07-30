@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1532965608 source:c:\test\final3007\main.c
+	<stdio.h>
+	<stdlib.h>
+	"recursos.h"
+	"letra.h"
+
+1532952064 c:\test\final3007\recursos.h
+
+1532952027 source:c:\test\final3007\recursos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1532952275 source:c:\test\final3007\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532952321 c:\test\final3007\arraylist.h
+
+1532965649 source:c:\test\final3007\letra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"letra.h"
+
+1532963365 c:\test\final3007\letra.h
+	"ArrayList.h"
+
